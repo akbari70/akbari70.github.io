@@ -1,8 +1,12 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: طراحی سایت با زبانهای برنامه نویسی تحت وب
 featured: /assets/images/pic03.jpg
 layout: post
 ---
-
-<p>Reprehenderit in voluptate velit esse cillum non proident, sunt in culpa qui officia  sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-<p>Duis aute irure dolor in reprehenderit in voluptate reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+زبان های برنامه نویسی تحت وب برای طراحی سایت
+برنامه نویسی مقوله ای بسیار گسترده است و انواع مختلفی از زبانهای برنامه نویسی برای آن ساخته شده اند که از لحاظ نحوه کار ، موارد استفاده و غیره تفاوت های زیادی با همدیگر دارند . بطور کلی زبان های برنامه نویسی به دو گروه زیر تقسیم می شوند :
+* زبان های برنامه نویسی دسکتاپ
+* زبان های برنامه نویسی تحت وب
+مورد اول یعنی زبانهای که برای برنامه نویسی دسکتاپ استفاده می شوند جهت نوشتن برنامه هایی به کار می روند که بر روی کامپیوتر قابل اجرا می باشند مانند نرم افزارهای ویندوزی ولی زبانهای برنامه نویسی تحت وب برای ساخت برنامه هایی استفاده می شوند که بر روی شبکه یا همان وب اجرا شده و می توان آنها را بر روی شبکه ای مانند اینترنت انتشار داد این زبان های برنامه نویسی را در اصطلاح زبان های طراحی سایت  یا طراحی وب می گویند .در این مقاله قصد داریم درباره طراحی سایت و زبانهای طراحی سایت بحث کنیم و به مقایسه میان آنها بپردازیم.
+</p>

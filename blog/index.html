@@ -5,16 +5,14 @@ layout: default
 
 <!-- Main -->
 	<section class="wrapper style1">
-		<div class="container">
-			<div id="content">
+		<div class="container" >
+			<div id="content" style="font-family: bml;direction: rtl">
 				<div class="row">
 					<div class="12u">
 
 						<!-- Blog -->
 							<section>
-								<header class="major">
-									<h2>The Blog</h2>
-								</header>
+
 								{% for post in site.posts offset: 0 limit: 4 %}
 									<div class="row">
 										<section class="12u">
@@ -24,7 +22,7 @@ layout: default
 													<h3>{{ post.title }}</h3>
 													{{ post.excerpt }}
 													<footer>
-														<a href="{{ site.baseurl }}{{ post.url }}" class="button">Continue Reading</a>
+														<a href="{{ site.baseurl }}{{ post.url }}" class="button">بیشتر بخوانید</a>
 													</footer>
 												</div>
 											</div>
